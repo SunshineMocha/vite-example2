@@ -1,4 +1,9 @@
 body{
   background-color: black;
   color: white;
+  background-image: url(./assets/paws-blue-pattern-vector-46096825.jpg);
+}
+
+li{
+  background-color: rgba(0,0,255,0.8);
 }
