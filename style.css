@@ -1,7 +1,7 @@
 body{
   background-color: black;
   color: white;
-  background-image: url(./assets/paws-blue-pattern-vector-46096825.jpg);
+  background-image: url('./assets/paws-blue-pattern-vector-46096825.jpg');
 }
 
 li{
